@@ -15,13 +15,13 @@ I am a Computer Engineering Student with a passion for exploring the software. S
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Hunaid53&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️ Random Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Hunaid53&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
+### 😂 Random Meme
 <img src='https://memer-new.vercel.app/' style="height: 400px;"/>
 
 ---
